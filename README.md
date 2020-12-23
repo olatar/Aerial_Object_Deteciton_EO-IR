@@ -5,6 +5,3 @@ A notebook is added for almost each tiral in the results. Consequently, many are
 The notebooks are based on the Computer Vision Model Library from Roboflow.com.
 
 ![](./Image.png)
-
-
-<div style="text-align:center"><img src="./Image.png" /></div>
