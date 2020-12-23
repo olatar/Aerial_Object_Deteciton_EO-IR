@@ -4,6 +4,8 @@
 A notebook is added for almost each tiral in the results. Consequently, many are quite similar.
 The notebooks are based on the Computer Vision Model Library from Roboflow.com
 
+Due to the size of the model weights, they are not added in the repository.
+
 ## Abstract
 *This project shows the performance of state-of-the-art object detection architectures on both thermal and visual data of objects at sea, captured by an UAV.
 Experiments prove that by introducing a tracking algorithm, a performance
