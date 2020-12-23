@@ -4,4 +4,4 @@
 A notebook is added for almost each tiral in the results. Consequently, many are quite similar.
 The notebooks are based on the Computer Vision Model Library from Roboflow.com.
 
-![](/Aerial_Object_Deteciton_EO-IR/Image.png)
+![](./Image.png)
